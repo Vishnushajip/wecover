@@ -1,0 +1,16 @@
+{
+  "hosting": [
+    {
+      "site": "wecover",
+      "public": "e-commerce/out",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "cleanUrls": true,
+      "trailingSlash": true
+    }
+  ]
+}
+
